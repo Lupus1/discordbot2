@@ -1,0 +1,49 @@
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\aoe test bot 2.exe.config
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\aoe test bot 2.exe
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\aoe test bot 2.pdb
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\obj\Debug\aoe test bot 2.exe
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\obj\Debug\aoe test bot 2.pdb
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\obj\Debug\aoe test bot 2.csprojResolveAssemblyReference.cache
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\systemlang\alerts.json
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Newtonsoft.Json.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Newtonsoft.Json.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Commands.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Core.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Rest.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Rpc.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Webhook.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.WebSocket.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\System.Collections.Immutable.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\System.Interactive.Async.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Commands.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Core.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Rest.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Rpc.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.Webhook.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Discord.Net.WebSocket.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\System.Collections.Immutable.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\System.Interactive.Async.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\NReco.ImageGenerator.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\NReco.ImageGenerator.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Api.Gax.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Api.Gax.Rest.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.Auth.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.Core.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.PlatformServices.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.Translate.v2.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Api.Gax.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Api.Gax.Rest.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.Auth.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.Core.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\Google.Apis.Translate.v2.xml
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\System.Net.Http.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\bin\Debug\System.Xml.ReaderWriter.dll
+f:\archief frank\visual studio 2015\Projects\aoe test bot 2\aoe test bot 2\obj\Debug\aoe test bot 2.csproj.aoe test bot 2.exe.config
